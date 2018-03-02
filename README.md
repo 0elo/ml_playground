@@ -1,2 +1,2 @@
-# ml_playground
+# Machine learning playground
 Repository for machine learning work
